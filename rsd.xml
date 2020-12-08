@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type 4.21-en</engineName> 
+<engineLink>http://www.sixapart.com/movabletype/</engineLink>
+<homePageLink>http://danglingbetween.com/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="http://tristanmedia.com/mt/mt-xmlrpc.cgi" blogID="7" />
+<api name="Blogger" preferred="false" apiLink="http://tristanmedia.com/mt/mt-xmlrpc.cgi" blogID="7" />
+</apis>
+</service>
+</rsd>
